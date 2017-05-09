@@ -1,0 +1,114 @@
+{
+    "userId" : "DrJoe",
+    "displayName" : "Doctor Joe",
+    "phone" : "01",
+    "email" : "DrJoe@gmail.com",
+    "earnedRatings" : 21,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "707 E Main St, Middletown, NY 10940, USA",
+        "coordinates" : [
+            41.4423134,
+            -74.36820790000002
+        ]
+    }
+}
+{
+    "userId" : "DrMike",
+    "displayName" : "DrMike",
+    "phone" : "02",
+    "email" : "DrMike@gmail.com",
+    "earnedRatings" : 10,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "475 NY-17M, Monroe, NY 10950, USA",
+        "coordinates" : [
+            41.3231211,
+            -74.1863965
+        ]
+    }
+
+}
+{
+    "userId" : "Dr Matt",
+    "displayName" : "Crystal Run Healthcare",
+    "phone" : "03",
+    "email" : "cop03@gmail.com",
+    "earnedRatings" : 15,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "155 Crystal Run Rd, Middletown, NY 10941, USA",
+        "coordinates" : [
+            41.4523056,
+            -74.35702679999997
+        ]
+    }
+}
+{
+    "userId" : "DrAnthnoy",
+    "displayName" : "Dr Anthony",
+    "phone" : "04",
+    "email" : "DrAnthony4@gmail.com",
+    "earnedRatings" : 11,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "8 Forester Ave, Warwick, NY 10990, USA",
+        "coordinates" : [
+            41.2588779,
+            -74.35604669999998
+        ]
+    }
+}
+{
+    "userId" : "DrLinda",
+    "displayName" : "DrLinda",
+    "phone" : "05",
+    "email" : "cop05@gmail.com",
+    "earnedRatings" : 15,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "59 Boniface Dr, Pine Bush, NY 12566, USA",
+        "coordinates" : [
+            41.602444,
+            -74.29669000000001
+        ]
+    }
+}
+{
+    "userId" : "FamilyCare",
+    "displayName" : "Family Care",
+    "phone" : "06",
+    "email" : "cop06@gmail.com",
+    "earnedRatings" : 21,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "34 US-9W, West Haverstraw, NY 10993, USA",
+        "coordinates" : [
+            41.2122514,
+            -73.98523390000003
+        ]
+    }
+
+}
+{
+    "userId" : "DrPatel",
+    "displayName" : "DrPatel",
+    "phone" : "07",
+    "email" : "cop07@gmail.com",
+    "earnedRatings" : 18,
+    "totalRatings" : 25,
+    "location" : {
+        "type" : "Point",
+        "address" : "111 Maltese Dr, Middletown, NY 10940, USA",
+        "coordinates" : [
+            41.45701,
+            -74.38635920000002
+        ]
+    }
+}
