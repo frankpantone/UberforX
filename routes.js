@@ -2,7 +2,7 @@ var dbOperations = require('./db-operations');
 
 function initialize(app, db, socket, io) {
     // 'Doctors?lat=12.9718915&&lng=77.64115449999997'
-    app.get('/Doctors', function(req, res) {
+    app.get('/doctors', function(req, res) {
         /*
             extract the latitude and longitude info from the request. 
             Then, fetch the nearest Doctors using MongoDB's geospatial queries and return it back to the client.
@@ -17,7 +17,7 @@ function initialize(app, db, socket, io) {
     });
 
     // 'Doctors/info?userId=01'
-    app.get('Doctors/info', function(req, res) {
+    app.get('/doctors/info', function(req, res) {
         var userId = req.query.userId //extract userId from quert params
         dbOperations.fetchDoctorDetails(db, userId, function(results) {
             res.json({

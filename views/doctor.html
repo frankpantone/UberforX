@@ -44,7 +44,7 @@
         var map, marker;
         //First send a GET request using JQuery AJAX and get the cop's details and save it
         $.ajax({
-            url: '/Doctors/info?userId=' + userId,
+            url: '/doctors/info?userId=' + userId,
             type: 'GET',
             dataType: 'json',
             success: function(data) {
