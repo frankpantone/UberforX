@@ -9,8 +9,8 @@
         "type" : "Point",
         "address" : "707 E Main St, Middletown, NY 10940, USA",
         "coordinates" : [
-            41.4423134,
-            -74.36820790000002
+            -74.36820790000002,
+            41.4423134
         ]
     }
 }
@@ -25,8 +25,8 @@
         "type" : "Point",
         "address" : "475 NY-17M, Monroe, NY 10950, USA",
         "coordinates" : [
-            41.3231211,
-            -74.1863965
+            -74.1863965,
+            41.3231211
         ]
     }
 
@@ -42,8 +42,8 @@
         "type" : "Point",
         "address" : "155 Crystal Run Rd, Middletown, NY 10941, USA",
         "coordinates" : [
-            41.4523056,
-            -74.35702679999997
+            -74.35702679999997,
+            41.4523056 
         ]
     }
 }
@@ -58,8 +58,8 @@
         "type" : "Point",
         "address" : "8 Forester Ave, Warwick, NY 10990, USA",
         "coordinates" : [
-            41.2588779,
-            -74.35604669999998
+            -74.35604669999998,
+            41.2588779
         ]
     }
 }
@@ -74,8 +74,8 @@
         "type" : "Point",
         "address" : "59 Boniface Dr, Pine Bush, NY 12566, USA",
         "coordinates" : [
-            41.602444,
-            -74.29669000000001
+            -74.29669000000001,
+            41.602444
         ]
     }
 }
@@ -90,8 +90,8 @@
         "type" : "Point",
         "address" : "34 US-9W, West Haverstraw, NY 10993, USA",
         "coordinates" : [
-            41.2122514,
-            -73.98523390000003
+            -73.98523390000003,
+            41.2122514
         ]
     }
 
@@ -107,8 +107,8 @@
         "type" : "Point",
         "address" : "111 Maltese Dr, Middletown, NY 10940, USA",
         "coordinates" : [
-            41.45701,
-            -74.38635920000002
+            -74.38635920000002,
+            41.45701
         ]
     }
 }

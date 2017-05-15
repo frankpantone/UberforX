@@ -48,7 +48,7 @@
             }
         }
         function requestForHelp() { //When button is clicked, emit an event
-            socket.emit('request-for-help', requestDoctorDetails);
+            socket.emit('request-for-help', requestDetails);
         }
         //Listen for a 'request-accepted' event
         socket.on('request-accepted', function(data) {
